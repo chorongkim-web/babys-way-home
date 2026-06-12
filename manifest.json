@@ -1,0 +1,27 @@
+{
+  "name": "Baby's Way Home",
+  "short_name": "Baby's Way Home",
+  "description": "아기 동물 힐링 퍼즐 게임",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#87CEEB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "index.apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "index.icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "index.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
